@@ -17,10 +17,6 @@ Genomics and Bioinformatics.
 - 🟢 TensorFlow 2
 ---
 ## Table of Contents
-1. [Installation](#sec2)
-2. [Quick Start](#sec3)
-3. [Contact & References](#sec4)
-
 
 <a id='sec2'></a>
 ## Installation
